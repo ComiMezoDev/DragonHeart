@@ -52,11 +52,6 @@
         "link1": {
           "text": "Discord",
           "url": "https://google.com"
-        },
-	{
-        "link2": {
-          "text": "Donate",
-          "url": "https://google.com"
         }
       }
     ]
