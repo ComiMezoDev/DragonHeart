@@ -16,8 +16,8 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">WILLKOMMEN</>",
-          "title1": "WILLKOMMEN BEIM DRAGONHEART PVE-CLUSTER",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+          "title1": "Welcome by DRAGONHEART PVE-CLUSTER",
           "text1": "Schön das du hierher gegefunden hast\n\n Hier noch ein paar Info`s für dich,\n\n *Start Kit (Free)* und weiter Kits findest du im Shop ( Inventart links unten).\n\n Alle *30 min* bekommst du *15 Coins*. Auch Dino Kill geben dir Coins (30% chance).\n\nRegel und die Settings findest du auf der nächsten Seite.\n\nWir geben uns Müde mit Events regelmäßig wechselnde Aktionen und Dino-Farbevents Hand in Hand verlaufen zu lassen\n\n um dich Glücklich zu machen,\n\nSupport gibts im Discord. \n\nKomm doch gleich auf unseren Discord und lerne weiter Spieler kennen, vorteil hast du auch wenn du \n\ndich Verlinkst zb 'Kick me'.\n\nAuch Serverstatus siehst du oder Wartungen das alles gibts da. Oder du willst mit deinen Tribe reden auch da\n\nist platz für.\n\n\n\n Und jetzt Viel Spaß beim spielen fallst du noch leben solltest bei diesen langen Text ;",
 		"imageurl": "https://imgur.com/Kho9I6x.png"
         }
@@ -36,13 +36,13 @@
       {
         "tab3": {
           "layout": 3,
-          "buttontext": "Test",
-          "title1": "1",
-          "title2": "2",
-          "title3": "3",
-          "text1": "This text goes into the 1",
-          "text2": "This text goes into the 2",
-          "text3": "This text goes into the 3",
+          "buttontext": "NEWS & More",
+          "title1": "News",
+          "title2": "Tipp´s",
+          "title3": "Support",
+          "text1": "*Settings : Food and Water consum fix\n\n Egg Hatch and more Fix ",
+          "text2": "In the shop, click on a window without an 'x' next to it to close.\n\n Missions are still coming, we are planning and testing them.\n\n Running speed is set to 1.5 as standard. \nEngrams are still being processed.\n",
+          "text3": "Click on Donate below to support us, put together your own package.",
           "imageurl": "https://imgur.com/Kho9I6x.png"
         }
       }
@@ -51,6 +51,11 @@
       {
         "link1": {
           "text": "Discord",
+          "url": "https://google.com"
+        },
+	{
+        "link2": {
+          "text": "Donate",
           "url": "https://google.com"
         }
       }
