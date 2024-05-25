@@ -50,14 +50,8 @@
      "links": [
       {
         "link1": {
-          "text": "Link to discord",
-          "url": "https://google.com"
-        }
-      },
-      {
-        "link2": {
-          "text": "Link to google",
-          "url": "https://google.com"
+          "text": "Link to Discord",
+          "url": "https://discord.gg/BRPfAAkeV9"
         }
       }
     ]
