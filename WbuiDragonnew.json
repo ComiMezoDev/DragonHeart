@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
           "title1": "Welcome by DRAGONHEART PVE-CLUSTER",
-          "text1": "Schön das du hierher gegefunden hast\n\n Hier noch ein paar Info`s für dich,\n\n *Start Kit (Free)* und weiter Kits findest du im Shop ( Inventart links unten).\n\n Alle *30 min* bekommst du *15 Coins*. Auch Dino Kill geben dir Coins (30% chance).\n\nRegel und die Settings findest du auf der nächsten Seite.\n\nWir geben uns Müde mit Events regelmäßig wechselnde Aktionen und Dino-Farbevents Hand in Hand verlaufen zu lassen\n\n um dich Glücklich zu machen,\n\nSupport gibts im Discord. \n\nKomm doch gleich auf unseren Discord und lerne weiter Spieler kennen, vorteil hast du auch wenn du \n\ndich Verlinkst zb 'Kick me'.\n\nAuch Serverstatus siehst du oder Wartungen das alles gibts da. Oder du willst mit deinen Tribe reden auch da\n\nist platz für.\n\n\n\n Und jetzt Viel Spaß beim spielen fallst du noch leben solltest bei diesen langen Text ;",
+          "text1": "Schön das du hierher gegefunden hast\n\n Hier noch ein paar Info`s für dich,\n\n *Start Kit (Free)* und weiter Kits findest du im Shop ' F2 ' .\n\n Alle *30 min* bekommst du *15 Coins*.\n\nRegel und die Settings findest du auf der nächsten Seite.\n\nWir geben uns Müde mit Events regelmäßig wechselnde Aktionen und Dino-Farbevents Hand in Hand verlaufen zu lassen\n\n um dich Glücklich zu machen,\n\nSupport gibts im Discord. \n\nKomm doch gleich auf unseren Discord und lerne weiter Spieler kennen, vorteil hast du auch wenn du \n\ndich Verlinkst zb 'Kick me'.\n\nAuch Serverstatus siehst du oder Wartungen das alles gibts da. Oder du willst mit deinen Tribe reden auch da\n\nist platz für.\n\n\n\n Und jetzt Viel Spaß beim spielen fallst du noch leben solltest bei diesen langen Text ;",
 		"imageurl": "https://imgur.com/Kho9I6x.png"
         }
       },
@@ -38,10 +38,10 @@
           "layout": 3,
           "buttontext": "NEWS & More",
           "title1": "News",
-          "title2": "Tipp´s",
+          "title2": "Tipp´s and Chat Commands",
           "title3": "Support",
           "text1": "*Settings : Food and Water consum fix\n\n Egg Hatch and more Fix ",
-          "text2": "In the shop, click on a window without an 'x' next to it to close.\n\n Missions are still coming, we are planning and testing them.\n\n Running speed is set to 1.5 as standard. \nEngrams are still being processed.\n",
+          "text2": "* /points - See your current points balance \n\n * /buy <ID> <Amount> - Buy an item from the shop\n\n* /trade <'CharacterName'> <Amount> - Sends Amount Points to the character name specified\n\n* /kit to list all kits, /kit <KitName> to redeem one of them\n\n* /buykit <KitName> <Amount>. - Buys a kit. To get the contents you must redeem it with /kit kitname\n\n* /shop <Page>. See different pages of the shop. No page will show first page.\n\n* /sell <ID> <Amount> - Sell X amount of the item with ID\n\n* /shopsell <Page> - See what's available to sell. No page will show the first page\n\n* /shophelp - Custom help message\n\n Running speed is set to 1.5 as standard. \nEngrams are still being processed.\n",
           "text3": "Click on Donate below to support us, put together your own package.",
           "imageurl": "https://imgur.com/Kho9I6x.png"
         }
